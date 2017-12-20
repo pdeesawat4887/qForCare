@@ -20,9 +20,9 @@
 
 ## Functions
 
-- Authentication with Citizen ID ( Thailand Only )
-- Stay Login when close application
-- Logout
+- Authentication with Citizen ID. ( Thailand Only )
+- Stay Login when close application.
+- Logout.
 
 ### Patient
 
@@ -38,3 +38,5 @@
 - Reset queue anytime.
 - Call queue when doctor room empty, depend on cure.
 - See remain queue in system.
+
+> We use scrum principle in agile to create and manage project.
