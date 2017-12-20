@@ -57,4 +57,6 @@ We test some module that sensitive with application
 
 It from `GetTime.java` when user get correct time, application will separate booking into `SLOT` or `TIME-BOX` , we already create 10 time-box and specify 30 mins per time-box, start at `6 a.m.` and closing at `10 a.m.`. We want to make sure that hour and min that user get can define correct `time-box` because in database we already set `time-box` and cannot change. 
 
+> Test Result export in file `HTML`
+
 > We use scrum principle in agile to create and manage project.
