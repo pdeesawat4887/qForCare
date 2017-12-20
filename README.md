@@ -39,4 +39,10 @@
 - Call queue when doctor room empty, depend on cure.
 - See remain queue in system.
 
+## My Equipments 
+- Android Studio Version 3.0
+- NoSQL Database [FIREBASE CONSOLE](https://console.firebase.google.com/)
+- NTP [Apache-commons-net](https://commons.apache.org/proper/commons-net/download_net.cgi)
+- Icon from [FLATICON](https://www.flaticon.com)
+
 > We use scrum principle in agile to create and manage project.
